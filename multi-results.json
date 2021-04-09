@@ -1,0 +1,27 @@
+{
+    "value": [
+        {
+            "changeType": "updated",
+            "clientState": "SecretClientState",
+            "resource": "Groups/fc3422a9-3165-4443-ac07-4ff11e2d8201",
+            "resourceData": {
+                "@odata.type": "#Microsoft.Graph.Group",
+                "@odata.id": "Groups/fc3422a9-3165-4443-ac07-4ff11e2d8201",
+                "id": "fc3422a9-3165-4443-ac07-4ff11e2d8201",
+                "organizationId": "4902005e-ce6c-422b-b29c-b136764f2428",
+                "sequenceNumber": 637535751030469150,
+                "members@delta": [
+                    {
+                        "id": "3cbaf634-39be-4ee2-b4cc-d03e36be0ad2"
+                    },
+                    {
+                        "id": "32b97a74-f145-44e3-a8e2-d0405623b77e"
+                    }
+                ]
+            },
+            "subscriptionExpirationDateTime": "2021-04-09T07:28:16.5682494-07:00",
+            "subscriptionId": "810a371c-6fa4-4d7c-bde4-c412437cec40",
+            "tenantId": "4902005e-ce6c-422b-b29c-b136764f2428"
+        }
+    ]
+}
